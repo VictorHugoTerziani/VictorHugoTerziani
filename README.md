@@ -2,8 +2,6 @@
 
 I'm an economics Bachelor Student at Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio).
 
-![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorHugoTerziani&show=prs_merged&show_icons=true&theme=highcontrast)
-
 **Main Languages**
 
 ![R](https://img.shields.io/badge/R-BFC2C5?style=for-the-badge&logo=R&logoColor=blue)
