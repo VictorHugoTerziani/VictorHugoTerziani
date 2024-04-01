@@ -1,6 +1,6 @@
 ### Hi, my name is Victor!
 
-I'm an economics Bachelor Student at Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio).
+I'm an economics Undergraduate Student at Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio).
 
 **Main Languages**
 
